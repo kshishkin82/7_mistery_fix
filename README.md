@@ -1,10 +1,13 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+Решение квадратных уровнений
 
 # How to Use
 
-[TODO]
+```bash
+from quadratic_equation import get_roots
+root1, root2 = get_roots(1, 2, 3)
+```
 
 # How to Launch Tests
 
